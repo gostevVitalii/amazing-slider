@@ -1,1 +1,1 @@
-# amazing-slider
+# Amazing slider for websites
